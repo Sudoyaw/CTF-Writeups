@@ -6,7 +6,7 @@ It was a really unique and fun experience as this was my first time participatin
 
 I've successfully secured 43rd place in this competition and here are my solutions to the challenges I managed to solve throughout the competition.
 
-![[Pasted image 20240902220800.png]]
+![[Attachments/Pasted image 20240902220800.png]]
 
-![[Pasted image 20240902220814.png]]
+![[Attachments/Pasted image 20240902220814.png]]
 
