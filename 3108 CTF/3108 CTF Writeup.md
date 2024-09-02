@@ -196,9 +196,11 @@ Flag: `3108{3108k3b4ngk1tanp4hl4w4n}`
 This one took me quite a way I ain't gon lie cuz silly me thought the hidden characters were morse code for whatever reason. 
 
 Upon opening the file in a text editor, we see nothing but nothing. 
+
 ![Untitled](Attachments/Pasted%20image%2020240902180736.png)
 
 However, highlighting the file revealed something interesting:
+
 ![Untitled](Attachments/Pasted%20image%2020240902180824.png)
 
 As mentioned above, I thought this was morse code initially. After some further researching, this seemed to be a whitespace encoding and apparently whitespace language is a thing. With this info, we head on to https://www.dcode.fr/whitespace-language and paste the file content to retrieve our flag:
@@ -225,6 +227,7 @@ Definitely could've solve more challenges that were worth 100pts under this cate
 ![Untitled](Attachments/Pasted%20image%2020240902181936.png)
 
 Image File:
+
 ![Untitled](Attachments/Pasted%20image%2020240902182124.png)
 
 The challenge description stated that Syah likes to leave reviews for places she visited so that'll be the direction we'll be going for. I first did a quick google reverse search to try and find out where the location in the image is and it is the Muzium Kota Kayang
