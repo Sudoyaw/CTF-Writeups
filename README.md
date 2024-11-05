@@ -1,3 +1,3 @@
-A Repo for the CTFs I've participated.
+A Repo for the CTFs I've participated
   
 
